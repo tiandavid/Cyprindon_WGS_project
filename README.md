@@ -5,7 +5,6 @@ Links to publication:
 
 biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.13.456274v1
 
-PRSB: 
 
 The scripts directory contains scripts for WGS processing and analyses. 
 
