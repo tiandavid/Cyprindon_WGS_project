@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #SBATCH -p savio
 #SBATCH -t 03-00:00
 #SBATCH --mail-type=END,FAIL
